@@ -36,17 +36,17 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2 align="center"><i>My GitHub Stats</i></h2>
 <p align="center"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivareddykyadari&&theme=highcontrast" alt="Shivareddykyadari"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaurya611i&&theme=highcontrast" alt="Shivareddykyadari"/></p>
 <p align="center">
 </p>
 <br>
 <!----------------------------------- Tech Languages ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivareddykyadari&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Shivareddykyadari" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaurya611&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Shaurya611" /></p>
 <p align="center">
 </p>
 <br>
 <!----------------------------------- Git Status ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivareddykyadari&show_icons=true&locale=en&&theme=highcontrast" alt="Shivareddykyadari" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaurya611&show_icons=true&locale=en&&theme=highcontrast" alt="Shaurya611" /></p>
 <br>
-<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Shivareddykyadari&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Shivareddykyadari&theme=algolia" alt="Shivareddykyadari" /></a></p>
+<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Shaurya611&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Shaurya611&theme=algolia" alt="Shaurya611" /></a></p>
 <br>
