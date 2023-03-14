@@ -37,11 +37,11 @@
 <h2 align="center"><i>My GitHub Stats</i></h2>
 <p align="center"></p>
 <div align="center">
-  <a href="https://github.com/HirenShudra/github-readme-streak-stats">
+  <a href="https://github.com/Shaurya611/github-readme-streak-stats">
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="HirenShudra streak"
-      src="https://streak-stats.demolab.com?user=HirenShudra&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
+      alt="Shaurya611 streak"
+      src="https://streak-stats.demolab.com?user=Shaurya611&theme=androidd-dark_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
     />
   </a>
 </div>
