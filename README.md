@@ -36,9 +36,15 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2 align="center"><i>My GitHub Stats</i></h2>
 <p align="center"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaurya611i&&theme=highcontrast" alt="Shaurya611"/></p>
-<p align="center">
-</p>
+<div align="center">
+  <a href="https://github.com/HirenShudra/github-readme-streak-stats">
+    <img
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="HirenShudra streak"
+      src="https://streak-stats.demolab.com?user=HirenShudra&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
+    />
+  </a>
+</div>
 <br>
 <!----------------------------------- Tech Languages ------------------------------------>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaurya611&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Shaurya611" /></p>
