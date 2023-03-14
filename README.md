@@ -22,7 +22,7 @@
 
 <p align="center">
 <p align="center">
-    <a href="https://www.linkedin.com/in/shaurya611/">
+    <a href="https://www.linkedin.com/in/shaurya611/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shaurya's LINKDIN"/>
     </a>
     <a href="https://twitter.com/shaurya611">
