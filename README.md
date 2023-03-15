@@ -29,7 +29,7 @@
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Shaurya_twitter"/>
     </a>
     <a title="sethshaurya96@gmail.com" href="mailto:sethshaurya96@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ypraveen341@gmail.com"/>
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sethshaurya96@gmail.com"/>
     </a>
 </p>
 <br>
