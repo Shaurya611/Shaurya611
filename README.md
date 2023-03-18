@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiast Tech Support Engineer skilled in providing support and also skilled in Tech Stack like JavaScript, HTML, CSS, LINUX, SQL, OS
+Enthusiast Tech Support Engineer!!
 
 
 ## 🌐 Socials:
